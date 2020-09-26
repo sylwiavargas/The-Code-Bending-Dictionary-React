@@ -77,11 +77,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 
 ### React
 
-- [Create React App](https://github.com/facebook/create-react-app).
-
-### i18next
-
-- [React-i18next](https://react.i18next.com/)
+- [Create React App](https://github.com/facebook/create-react-app)
 
 ### react-ga
 
