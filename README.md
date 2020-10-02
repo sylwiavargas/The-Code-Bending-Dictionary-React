@@ -21,6 +21,8 @@ The dictionary was an idea of **The Code Benders Cohort** of Flatiron School's I
     - [Analytics: react-ga ](#react-ga)
 - [Contributing](#contributing)
     - [Known Issues](#known-issues)
+    - [Core Team](#core-team)
+    - [Contributors](#contributors)
 - [License](#license)
 
 ---
@@ -86,13 +88,14 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 --- 
 
 ## Contributing
-Pull requests are welcome. Please make sure that your PR is [well-scoped](https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs/).
+Please read our [wiki on contributing]( https://github.com/sylwiavargas/The-Code-Bending-Dictionary/wiki/3.-Contributing-to-the-Code-Bending-Dictionary) and [code of conduct](https://github.com/sylwiavargas/The-Code-Bending-Dictionary/wiki/2.-Code-of-Conduct). 
+
 For major changes, please open an issue first to discuss what you would like to change. 
 
 ### Known issues
 Visit [issues](https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React-React/issues) section.
 
-### Contributors
+### Core Team
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sylwiavargas">
@@ -134,6 +137,11 @@ Visit [issues](https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React
     </tr>
 </table>
 
+
+### Contributors
+Thank you! 
+
+[here will be your picture after your PR is merged]
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
