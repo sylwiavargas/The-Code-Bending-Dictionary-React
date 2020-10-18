@@ -59,8 +59,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Installation
 
 ```
-    $ git clone https://github.com/sruti/covid19-riskfactors-app.git
-    $ cd covid19-riskfactors-app
+    $ git clone git@github.com:sylwiavargas/The-Code-Bending-Dictionary-React.git
+    $ cd The-Code-Bending-Dictionary-React
     $ npm install
 ```
 
@@ -88,12 +88,12 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 --- 
 
 ## Contributing
-Please read our [wiki on contributing]( https://github.com/sylwiavargas/The-Code-Bending-Dictionary/wiki/3.-Contributing-to-the-Code-Bending-Dictionary) and [code of conduct](https://github.com/sylwiavargas/The-Code-Bending-Dictionary/wiki/2.-Code-of-Conduct). 
+Please read our [wiki on contributing]( https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React/wiki/3.-Contributing-to-the-Code-Bending-Dictionary) and [code of conduct](https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React/wiki/2.-Code-of-Conduct). 
 
 For major changes, please open an issue first to discuss what you would like to change. 
 
 ### Known issues
-Visit [issues](https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React-React/issues) section.
+Visit [issues](https://github.com/sylwiavargas/The-Code-Bending-Dictionary-React/issues) section.
 
 ### Core Team
 <table>
